@@ -167,7 +167,7 @@ Set the Specular color to ColorRGBA.Black to switch off shininess.</div>
 </ul>
 
 <p>
-<a href="/resources/fetch.php" class="media" title="http://wiki.jmonkeyengine.org/lib/exe/fetch.php/jme3:tanlglow2.png"><img src="/resources/fetch.php" class="mediacenter" alt="" width="400" height="234" /></a>
+<a href="/resources/fetch.php" class="media" title="http://wiki.jmonkeyengine.org/jme3/tanlglow2.png"><img src="/resources/fetch.php" class="mediacenter" alt="" width="400" height="234" /></a>
 </p>
 
 </div>
